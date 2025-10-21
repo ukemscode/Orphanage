@@ -68,7 +68,7 @@ header > :last-child > li > a {
       rgba(29, 29, 47, 0.5),
       rgba(29, 29, 47, 0.5)
     ),
-    url("/assets/orphans.jpg");
+    url("../assets/orphans.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-size: 100%;
